@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d.inv" format="2">
+  <advance width="200.0"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="600.0" y="866.0" type="move"/>
+      <point x="46.0" y="866.0" type="line"/>
+      <point x="46.0" y="310.0" type="line"/>
+      <point x="-212.0" y="758.0" type="line"/>
+      <point x="-62.0" y="758.0" type="line"/>
+      <point x="-62.0" y="866.0" type="line"/>
+      <point x="-400.0" y="866.0" type="line"/>
+      <point x="100.0" y="0.0" type="line"/>
+      <point x="154.0" y="94.0" type="line"/>
+      <point x="154.0" y="758.0" type="line"/>
+      <point x="412.0" y="758.0" type="line"/>
+      <point x="262.0" y="498.0" type="line"/>
+      <point x="262.0" y="281.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
