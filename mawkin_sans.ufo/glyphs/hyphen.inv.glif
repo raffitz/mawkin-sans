@@ -1,12 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen.inv" format="2">
-  <advance width="200.0"/>
+  <advance width="200"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="100.0" y="217" type="move"/>
-      <point x="-25.0" y="433" type="line"/>
-      <point x="225.0" y="433" type="line"/>
+      <point x="100" y="217" type="move"/>
+      <point x="-25" y="433" type="line"/>
+      <point x="225" y="433" type="line"/>
     </contour>
   </outline>
 </glyph>

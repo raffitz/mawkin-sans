@@ -1,28 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z.inv" format="2">
-  <advance width="200.0"/>
+  <advance width="200"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="100.0" y="0" type="move"/>
-      <point x="225.0" y="216" type="line"/>
-      <point x="100.0" y="216" type="line"/>
-      <point x="-77.0" y="523" type="line"/>
-      <point x="277.0" y="523" type="line"/>
-      <point x="217.0" y="418" type="line"/>
-      <point x="342.0" y="418" type="line"/>
-      <point x="600.0" y="866" type="line"/>
-      <point x="475.0" y="866.0" type="line"/>
-      <point x="340.0" y="631" type="line"/>
-      <point x="-140.0" y="631" type="line"/>
-      <point x="-275.0" y="866" type="line"/>
-      <point x="-400.0" y="866" type="line"/>
+      <point x="100" y="0" type="move"/>
+      <point x="225" y="216" type="line"/>
+      <point x="100" y="216" type="line"/>
+      <point x="-77" y="523" type="line"/>
+      <point x="277" y="523" type="line"/>
+      <point x="217" y="418" type="line"/>
+      <point x="342" y="418" type="line"/>
+      <point x="600" y="866" type="line"/>
+      <point x="475" y="866" type="line"/>
+      <point x="340" y="631" type="line"/>
+      <point x="-140" y="631" type="line"/>
+      <point x="-275" y="866" type="line"/>
+      <point x="-400" y="866" type="line"/>
     </contour>
     <contour>
-      <point x="-150.0" y="866" type="move"/>
-      <point x="-87.0" y="758" type="line"/>
-      <point x="287.0" y="758" type="line"/>
-      <point x="350.0" y="866" type="line"/>
+      <point x="-150" y="866" type="move"/>
+      <point x="-87" y="758" type="line"/>
+      <point x="287" y="758" type="line"/>
+      <point x="350" y="866" type="line"/>
     </contour>
   </outline>
 </glyph>

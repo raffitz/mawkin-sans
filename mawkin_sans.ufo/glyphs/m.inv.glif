@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m.inv" format="2">
-  <advance width="200.0"/>
+  <advance width="200"/>
   <unicode hex="006D"/>
   <outline>
     <contour>
-      <point x="100.0" y="0" type="move"/>
-      <point x="329.0" y="397" type="line"/>
-      <point x="-4.0" y="397" type="line"/>
-      <point x="-212.0" y="758" type="line"/>
-      <point x="537.0" y="758" type="line"/>
-      <point x="600.0" y="866" type="line"/>
-      <point x="-400.0" y="866" type="line"/>
+      <point x="100" y="0" type="move"/>
+      <point x="329" y="397" type="line"/>
+      <point x="-4" y="397" type="line"/>
+      <point x="-212" y="758" type="line"/>
+      <point x="537" y="758" type="line"/>
+      <point x="600" y="866" type="line"/>
+      <point x="-400" y="866" type="line"/>
     </contour>
     <contour>
-      <point x="402.0" y="523" type="move"/>
-      <point x="465.0" y="631" type="line"/>
-      <point x="46.0" y="631" type="line"/>
-      <point x="46.0" y="523" type="line"/>
+      <point x="402" y="523" type="move"/>
+      <point x="465" y="631" type="line"/>
+      <point x="46" y="631" type="line"/>
+      <point x="46" y="523" type="line"/>
     </contour>
   </outline>
 </glyph>

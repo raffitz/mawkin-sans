@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
   <advance width="1000"/>
   <unicode hex="005A"/>
@@ -12,7 +12,7 @@
       <point x="617" y="448" type="line"/>
       <point x="742" y="448" type="line"/>
       <point x="1000" y="0" type="line"/>
-      <point x="875.0" y="0.0" type="line"/>
+      <point x="875" y="0" type="line"/>
       <point x="740" y="235" type="line"/>
       <point x="260" y="235" type="line"/>
       <point x="125" y="0" type="line"/>
