@@ -37,6 +37,7 @@ feature liga {
     substitute \period \yacute by \yacute.inv;
     substitute \period \ecircumflex by \ecircumflex.inv;
     substitute \period \hyphen by \hyphen.inv;
+    substitute \period \space by \space.inv;
     substitute \period \A by \A.inv;
     substitute \period \B by \B.inv;
     substitute \period \C by \C.inv;

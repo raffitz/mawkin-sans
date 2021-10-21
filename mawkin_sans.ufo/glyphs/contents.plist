@@ -216,6 +216,8 @@
   <string>s.inv.glif</string>
   <key>space</key>
   <string>space.glif</string>
+  <key>space.inv</key>
+  <string>space.inv.glif</string>
   <key>t</key>
   <string>t.glif</string>
   <key>t.inv</key>

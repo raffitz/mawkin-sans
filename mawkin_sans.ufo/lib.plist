@@ -201,6 +201,7 @@
     <string>quoteleft</string>
     <string>quoteright</string>
     <string>minus</string>
+    <string>space.inv</string>
     <string>hyphen.inv</string>
     <string>period.inv</string>
     <string>A.inv</string>
