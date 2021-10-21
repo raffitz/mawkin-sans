@@ -4,9 +4,9 @@
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="500" y="433" type="line"/>
-      <point x="375" y="217" type="line"/>
-      <point x="625" y="217" type="line"/>
+      <point x="500" y="217" type="line"/>
+      <point x="375" y="433" type="line"/>
+      <point x="625" y="433" type="line"/>
     </contour>
   </outline>
 </glyph>
