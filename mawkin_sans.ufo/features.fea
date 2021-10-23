@@ -5,6 +5,10 @@ languagesystem latn dflt;
 @uppercase = [ \A \B \C \D \E \Eacute \Ecircumflex \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \Uacute \V \W \X \Y \Yacute \Z ];
 @invertible = [ @lowercase @uppercase ];
 
+@lowerinv = [ \a.inv \b.inv \c.inv \d.inv \e.inv \eacute.inv \ecircumflex.inv \f.inv \g.inv \h.inv \i.inv \j.inv \k.inv \l.inv \m.inv \n.inv \o.inv \p.inv \q.inv \r.inv \s.inv \t.inv \u.inv \uacute.inv \v.inv \w.inv \x.inv \y.inv \yacute.inv \z.inv \hyphen.inv ];
+@upperinv = [ \A.inv \B.inv \C.inv \D.inv \E.inv \Eacute.inv \Ecircumflex.inv \F.inv \G.inv \H.inv \I.inv \J.inv \K.inv \L.inv \M.inv \N.inv \O.inv \P.inv \Q.inv \R.inv \S.inv \T.inv \U.inv \Uacute.inv \V.inv \W.inv \X.inv \Y.inv \Yacute.inv \Z.inv ];
+@inverted = [ @lowerinv @upperinv ];
+
 feature liga {
     substitute \period \a by \a.inv;
     substitute \period \b by \b.inv;
@@ -37,7 +41,7 @@ feature liga {
     substitute \period \yacute by \yacute.inv;
     substitute \period \ecircumflex by \ecircumflex.inv;
     substitute \period \hyphen by \hyphen.inv;
-    substitute \period \space by \space.inv;
+    substitute \period \space by \space400;
     substitute \period \A by \A.inv;
     substitute \period \B by \B.inv;
     substitute \period \C by \C.inv;
@@ -132,4 +136,7 @@ feature calt {
     substitute @invertible \Uacute' by \Uacute.inv;
     substitute @invertible \Yacute' by \Yacute.inv;
     substitute @invertible \Ecircumflex' by \Ecircumflex.inv;
+    substitute @invertible \space' @invertible by \space200;
+    substitute @inverted \space' @invertible by \space600 \space600;
+    substitute @invertible \space' @inverted by \space600 \space600;
 } calt;

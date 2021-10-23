@@ -5,6 +5,9 @@
   <key>public.glyphOrder</key>
   <array>
     <string>space</string>
+    <string>space200</string>
+    <string>space400</string>
+    <string>space600</string>
     <string>exclam</string>
     <string>quotesingle</string>
     <string>quotedbl</string>
@@ -201,7 +204,6 @@
     <string>quoteleft</string>
     <string>quoteright</string>
     <string>minus</string>
-    <string>space.inv</string>
     <string>hyphen.inv</string>
     <string>period.inv</string>
     <string>A.inv</string>

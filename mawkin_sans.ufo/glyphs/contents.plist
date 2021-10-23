@@ -216,8 +216,12 @@
   <string>s.inv.glif</string>
   <key>space</key>
   <string>space.glif</string>
-  <key>space.inv</key>
-  <string>space.inv.glif</string>
+  <key>space200</key>
+  <string>space200.glif</string>
+  <key>space400</key>
+  <string>space400.glif</string>
+  <key>space600</key>
+  <string>space600.glif</string>
   <key>t</key>
   <string>t.glif</string>
   <key>t.inv</key>
