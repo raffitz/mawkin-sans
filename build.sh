@@ -13,7 +13,6 @@ convert -background white -fill black \
 convert -background white -fill black \
           -font './mawkin_sans.otf' -pointsize 60 label:"the last metroid\n. .is in captivity\nthe galaxy\n. .is at peace\n\n\nMawkin\n. .Sans" \
           demo.png
-<<<PY
 
 # Convert OTF to WOFF2 for webfont
 python3 <<PY
