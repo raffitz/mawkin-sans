@@ -1,0 +1,3 @@
+fontmake
+-e git+https://github.com/silnrsi/pysilfont#egg=pysilfont
+fonttools[ufo,lxml,woff,unicode]
