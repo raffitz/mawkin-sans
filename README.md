@@ -11,10 +11,6 @@ An example of text can be seen here:
 ### Prerequisites
 
 * have python3 and imagemagick installed (commands vary per OS)
-* Install python scripts:
-    * `pip3 install fontmake`
-    * `pip3 install git+https://github.com/silnrsi/pysilfont`
-    * `python3 -m pip install fonttools[ufo,lxml,woff,unicode]`
 
 ### Run builder
 
