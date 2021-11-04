@@ -248,3 +248,7 @@ feature calt {
     substitute @inverted \space' @invertible by \space600 \space600;
     substitute @invertible \space' @inverted by \space600 \space600;
 } calt;
+
+feature kern {
+    pos @digitsall 54 @digitsall 54;
+} kern;
