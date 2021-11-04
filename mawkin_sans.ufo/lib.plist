@@ -266,6 +266,16 @@
     <string>ecircumflex.inv</string>
     <string>uacute.inv</string>
     <string>yacute.inv</string>
+    <string>zero.inv</string>
+    <string>one.inv</string>
+    <string>two.inv</string>
+    <string>three.inv</string>
+    <string>four.inv</string>
+    <string>five.inv</string>
+    <string>six.inv</string>
+    <string>seven.inv</string>
+    <string>eight.inv</string>
+    <string>nine.inv</string>
   </array>
 </dict>
 </plist>

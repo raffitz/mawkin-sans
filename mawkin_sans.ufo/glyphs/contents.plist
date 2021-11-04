@@ -150,10 +150,22 @@
   <string>ecircumflex.glif</string>
   <key>ecircumflex.inv</key>
   <string>ecircumflex.inv.glif</string>
+  <key>eight</key>
+  <string>eight.glif</string>
+  <key>eight.inv</key>
+  <string>eight.inv.glif</string>
   <key>f</key>
   <string>f.glif</string>
   <key>f.inv</key>
   <string>f.inv.glif</string>
+  <key>five</key>
+  <string>five.glif</string>
+  <key>five.inv</key>
+  <string>five.inv.glif</string>
+  <key>four</key>
+  <string>four.glif</string>
+  <key>four.inv</key>
+  <string>four.inv.glif</string>
   <key>g</key>
   <string>g.glif</string>
   <key>g.inv</key>
@@ -190,10 +202,18 @@
   <string>n.glif</string>
   <key>n.inv</key>
   <string>n.inv.glif</string>
+  <key>nine</key>
+  <string>nine.glif</string>
+  <key>nine.inv</key>
+  <string>nine.inv.glif</string>
   <key>o</key>
   <string>o.glif</string>
   <key>o.inv</key>
   <string>o.inv.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
+  <key>one.inv</key>
+  <string>one.inv.glif</string>
   <key>p</key>
   <string>p.glif</string>
   <key>p.inv</key>
@@ -214,6 +234,14 @@
   <string>s.glif</string>
   <key>s.inv</key>
   <string>s.inv.glif</string>
+  <key>seven</key>
+  <string>seven.glif</string>
+  <key>seven.inv</key>
+  <string>seven.inv.glif</string>
+  <key>six</key>
+  <string>six.glif</string>
+  <key>six.inv</key>
+  <string>six.inv.glif</string>
   <key>space</key>
   <string>space.glif</string>
   <key>space200</key>
@@ -226,6 +254,14 @@
   <string>t.glif</string>
   <key>t.inv</key>
   <string>t.inv.glif</string>
+  <key>three</key>
+  <string>three.glif</string>
+  <key>three.inv</key>
+  <string>three.inv.glif</string>
+  <key>two</key>
+  <string>two.glif</string>
+  <key>two.inv</key>
+  <string>two.inv.glif</string>
   <key>u</key>
   <string>u.glif</string>
   <key>u.inv</key>
@@ -258,5 +294,9 @@
   <string>z.glif</string>
   <key>z.inv</key>
   <string>z.inv.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
+  <key>zero.inv</key>
+  <string>zero.inv.glif</string>
 </dict>
 </plist>
