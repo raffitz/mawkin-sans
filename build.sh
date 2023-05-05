@@ -45,7 +45,7 @@ if [[ -n "$IMAGEMAGICK" ]]; then
 
   echo "Generating demo.png"
   "$IMAGEMAGICK" -background white -fill black \
-            -font './mawkin_sans.otf' -pointsize 60 label:"the last metroid\n. .is in captivity\nthe galaxy\n. .is at peace\n\n2021\n\nMawkin\n. .Sans" \
+            -font './mawkin_sans.otf' -pointsize 60 label:"the last metroid\n. .is in captivity\nthe galaxy\n. .is at peace\n\n2021 2023\n\nMawkin\n. .Sans" \
             demo.png
 fi
 
